@@ -116,7 +116,7 @@ impl<'info> Payment<'info> {
         transfer(cpi_ctx, amount)
     }
 
-}}
+}
 
 #[derive(Accounts)]
 pub struct Close<'info> {
