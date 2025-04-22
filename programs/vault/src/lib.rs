@@ -7,7 +7,7 @@ use anchor_lang::{
 declare_id!("6ptzmLTi6NvwU6LfP3XCKST3uRxxRvDZvMeywLaYdrJ6");
 
 pub mod instructions;
-pub mod state;
+pub mod state;:
 
 
 #[program]
